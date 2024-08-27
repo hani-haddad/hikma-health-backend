@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# ./run_migrations.sh
+./scripts/run_migrations.sh
 
 export PYTHONUNBUFFERED=TRUE
 
